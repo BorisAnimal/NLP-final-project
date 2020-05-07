@@ -1,4 +1,4 @@
-train_file = 'data/train_data.tsv'
+train_file = 'data/olid-training-v1.0.tsv'
 test_file = 'data/testset-levela.tsv'
 test_answer = 'data/labels-levela.csv'
 
